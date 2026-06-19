@@ -17,6 +17,7 @@ A static, conversion-focused landing page built from `Personal Brand Blueprint �
 - `index.html` — semantic landing page markup.
 - `styles.css` — responsive premium visual design.
 - `README.md` — setup, deployment, and replacement notes.
+- `assets/shyam-photo.jpg` — hero portrait used for trust and personal branding.
 
 ## Local preview
 
@@ -26,6 +27,10 @@ python3 -m http.server 4173
 ```
 
 Open: http://localhost:4173
+
+## Photo update
+
+The hero section uses `assets/shyam-photo.jpg` with descriptive alt text and responsive cropping.
 
 ## CTA placeholder to replace
 
