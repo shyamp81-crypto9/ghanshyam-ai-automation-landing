@@ -30,7 +30,7 @@ Open: http://localhost:4173
 
 ## Photo update
 
-The hero section uses `assets/shyam-photo.jpg` with descriptive alt text and responsive cropping.
+The hero section uses `assets/shyam-photo.jpg` as the source portrait. The published HTML embeds the portrait as a data URI so Vercel serves the image reliably from the static page, with descriptive alt text and responsive cropping.
 
 ## CTA placeholder to replace
 
